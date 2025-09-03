@@ -16,7 +16,8 @@
       "Gayanthi Madhuwanthi",
       "Noyeli Yalindi",
       "Fathima Sasmiya",
-      "Jegan Gayathri"
+      "Jegan Gayathri",
+      "Nilukshi Prasadini"
     ],
     "Quality Control": [
       "Amanda Udeshani",
@@ -68,15 +69,6 @@
       "name": "Amanda Udeshani",
       "date": "2025-09-09",
       "duration": "2 hours",
-      "shift": "Evening",
-      "month_year": "2025-09"
-    },
-    {
-      "id": "30d0cd72-42a0-43b2-a7f2-92e89114c697",
-      "department": "Collection",
-      "name": "Nimesh Perera",
-      "date": "2025-09-13",
-      "duration": "1 hour",
       "shift": "Evening",
       "month_year": "2025-09"
     }
