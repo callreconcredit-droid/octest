@@ -1,0 +1,39 @@
+{
+  "staff": {
+    "Verification": [
+      "Ruwanjana Dissanayaka",
+      "Arunali Vihanga",
+      "Praveen Thrindu",
+      "Rahul Krishnan"
+    ],
+    "Collection": [
+      "Dilshan Madhuwantha",
+      "Nimesh Perera",
+      "Iresha Dilhani",
+      "Asanka Nash"
+    ],
+    "CS|TS|RPD": [
+      "Gayanthi Madhuwanthi",
+      "Noyeli Yalindi",
+      "Fathima Sasmiya",
+      "Jegan Gayathri"
+    ],
+    "Quality Control": [
+      "Amanda Udeshani",
+      "Samadhi Lanka",
+      "Kaveesha Dias",
+      "Sandhanam Kavishanth"
+    ]
+  },
+  "records": [
+    {
+      "id": "b00fed93-5a47-4af6-9601-94c5f08f6e05",
+      "department": "Verification",
+      "name": "Ruwanjana Dissanayaka",
+      "date": "2025-09-05",
+      "duration": "1 hour",
+      "shift": "Morning",
+      "month_year": "2025-09"
+    }
+  ]
+}
