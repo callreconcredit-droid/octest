@@ -104,6 +104,15 @@
       "duration": "2 hours",
       "shift": "Evening",
       "month_year": "2025-09"
+    },
+    {
+      "id": "3cd0ffd8-3124-4974-8ad5-a21396608a26",
+      "department": "Verification",
+      "name": "Praveen Thrindu",
+      "date": "2025-09-04",
+      "duration": "1 hour",
+      "shift": "Evening",
+      "month_year": "2025-09"
     }
   ]
 }
